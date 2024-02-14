@@ -1,0 +1,25 @@
+sym_no = 31
+rigid_no = 4
+rigid_type = Tetrahedron
+rigid_max = 4
+compound_rigid = P S S S S
+compound_single_atom = Li Mn
+ratio = 1 1 1
+bond = 2.0
+
+density = 0.05
+box_type = cube
+single_sym_restricted = 1
+dis_limit = 1.8
+vol_star = 3.0
+vol_end = 0.5
+step_number = 10000
+internal_circulation = 50
+debug = 0
+
+step_algorithm = normal
+temp_algorithm = fast
+step_ini = 0.3
+step_fin = 0.01
+temp_ini = 2.0
+temp_fin = 0.5
