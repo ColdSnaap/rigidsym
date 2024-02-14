@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Na3GeSe3
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   7.14695913
+_cell_length_b   7.36366294
+_cell_length_c   15.69241548
+_cell_angle_alpha   95.30948847
+_cell_angle_beta   100.07429640
+_cell_angle_gamma   102.21356319
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Na3GeSe3
+_chemical_formula_sum   'Na12 Ge4 Se12'
+_cell_volume   787.48579823
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  2  0.21877269  0.56406229  0.80749781  1
+  Na  Na1  2  0.24257837  0.08037772  0.96237667  1
+  Na  Na2  2  0.25081180  0.68158539  0.13443042  1
+  Na  Na3  2  0.25364150  0.80805571  0.36851574  1
+  Na  Na4  2  0.25865769  0.42241519  0.53872979  1
+  Na  Na5  2  0.27902524  0.94935205  0.68969219  1
+  Ge  Ge6  2  0.19226163  0.13954279  0.18074957  1
+  Ge  Ge7  2  0.30954732  0.34851944  0.32055064  1
+  Se  Se8  2  0.02476451  0.13291762  0.78914169  1
+  Se  Se9  2  0.02530258  0.41845358  0.36492463  1
+  Se  Se10  2  0.03080588  0.29463815  0.07288367  1
+  Se  Se11  2  0.47197076  0.19668714  0.42951892  1
+  Se  Se12  2  0.47444462  0.37915841  0.71031468  1
+  Se  Se13  2  0.47583783  0.06913304  0.13631271  1
